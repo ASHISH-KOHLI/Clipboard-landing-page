@@ -12,7 +12,7 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 ### Link
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://ashish-kohli.github.io/Clipboard-landing-page/)
 
 
 ### Built with
